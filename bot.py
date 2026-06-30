@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from telebot.apihelper import ApiTelegramException
 
-API_TOKEN = '8849084611:AAG0O8gjNDcFkgw-prsX0UytSUGVYkL10Ow'
+API_TOKEN = '8849084611:AAEgOOaDyZQr0VKSNjm9ETRMFmPBFFVQ3mc'
 CHANNEL_ID = '@khalili_design'
 
 bot = telebot.TeleBot(API_TOKEN)
